@@ -64,7 +64,6 @@ public class Soldier {
         int day = calendar.get(Calendar.DAY_OF_MONTH);
         String EndString = year + "년 " + month + "월 " + day + "일";
 
-        System.out.println(calendar.get(Calendar.DAY_OF_MONTH));
         return EndString;
     }
 

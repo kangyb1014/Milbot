@@ -10,7 +10,6 @@ import net.dv8tion.jda.core.entities.User;
 import net.dv8tion.jda.core.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.core.hooks.ListenerAdapter;
 import javax.security.auth.login.LoginException;
-import java.io.IOException;
 
 public class MilBot extends ListenerAdapter {
 
@@ -18,12 +17,7 @@ public class MilBot extends ListenerAdapter {
     private static PersonData data;
 
     public static void main(String[] args) throws Exception{
-        try {
-            data = new PersonData();
-        } catch (IOException e) {
-            System.out.println("file open error");
-            e.printStackTrace();
-        }
+        data = new PersonData();
 
         JDABuilder jb = new JDABuilder(AccountType.BOT);
         jb.setAutoReconnect(true);

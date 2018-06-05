@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9120392b-3930-43ae-af94-8d005b7ea793" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MilitaryBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/MilitaryBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/clearT/MilBot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/clearT/Ref.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/clearT/PersonData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/clearT/Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/clearT/MilBot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/clearT/PersonData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/clearT/Ref.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/clearT/Soldier$SoldierType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/clearT/Soldier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clearT/PersonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/clearT/PersonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,7 +20,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="266">
               <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
@@ -52,8 +29,8 @@
       <file leaf-file-name="MilBot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="-70">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2708#2709#0" expanded="true" />
@@ -72,23 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonData.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PersonData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/PersonData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+            <state relative-caret-position="223">
+              <caret line="69" column="40" lean-forward="true" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#836#837#0" expanded="true" />
@@ -116,9 +90,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/clearT/Army.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/clearT/Ref.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/clearT/PersonData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java" />
       </list>
     </option>
   </component>
@@ -287,14 +261,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4921875" weight="0.3218232" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.48958334" weight="0.3218232" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3815104" side_tool="true" visible="true" weight="0.29281768" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.38346353" side_tool="true" visible="true" weight="0.29281768" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.61848956" visible="true" weight="0.29281768" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.61653644" visible="true" weight="0.29281768" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -403,34 +377,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="266">
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2708#2709#0" expanded="true" />
-            <element signature="e#2726#2727#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -443,10 +393,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/PersonData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="323">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/MilBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2708#2709#0" expanded="true" />
+            <element signature="e#2726#2727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/clearT/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="69" column="40" lean-forward="true" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
           </folding>
         </state>
       </provider>
