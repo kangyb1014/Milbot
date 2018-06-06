@@ -20,7 +20,8 @@ public class Soldier {
     Soldier(String name, int enlistYear, int enlistMonth, int enlistDay, SoldierType soldierType){
         this.name = name;
         this.enlistYear = enlistYear;
-        this.enlistMonth = enlistMonth;
+        //월 -1
+        this.enlistMonth = enlistMonth - 1;
         this.enlistDay = enlistDay;
         this.soldierType = soldierType;
 

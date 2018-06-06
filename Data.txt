@@ -1,4 +1,4 @@
 ﻿//encoding: UTF-8, input format: name year month day type
-김 2018 6 4 Army
+최상천 2018 6 4 Army
 이 2018 5 28 Marine
 박 2018 3 28 AirForce

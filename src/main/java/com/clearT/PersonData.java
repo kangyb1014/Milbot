@@ -24,6 +24,7 @@ public class PersonData {
             String Line = input.nextLine();
             String[] str = Line.split("[ ]");
 
+            //월에 -1 해 주어야 함
             soldiers[num_of_people] = new Soldier(str[0],Integer.parseInt(str[1]),Integer.parseInt(str[2]),Integer.parseInt(str[3]),Soldier.toSoldierType(str[4]));
             num_of_people++;
         }
