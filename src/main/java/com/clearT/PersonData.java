@@ -17,7 +17,7 @@ public class PersonData {
         Scanner input = new Scanner(inputFile);
 
         //first line of Data.txt is comment
-        //if(input.hasNextLine()) input.nextLine();
+        if(input.hasNextLine()) input.nextLine();
 
         System.out.println(input.hasNextLine());
         while(input.hasNextLine()){
@@ -33,11 +33,11 @@ public class PersonData {
 
     public int SearchName(String name){
 
+        /*debug
         System.out.println(num_of_people);
-        //debug
         for(int i = 0; i < num_of_people; i++){
             System.out.println(soldiers[i].getName() + " " + soldiers[i].StartDayToString());
-        }
+        }*/
 
         for(int i = 0; i < num_of_people; i++){
             if(this.soldiers[i].getName().equalsIgnoreCase(name)) {
