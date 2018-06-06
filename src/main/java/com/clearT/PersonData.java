@@ -1,6 +1,8 @@
 package com.clearT;
 
 
+import java.util.Calendar;
+
 public class PersonData {
     public static final int NUM_OF_PEOPLE = 3;
     public Soldier[] soldiers = new Soldier[NUM_OF_PEOPLE];
@@ -8,9 +10,9 @@ public class PersonData {
 
     //파일에서 입력받아 데이터를 저장하게 해야 함. 수정 필요
     PersonData() {
-        soldiers[0] = new Soldier("김육군",2018,6,4,Soldier.SoldierType.Army);
-        soldiers[1] = new Soldier("이해병",2018,5,24,Soldier.SoldierType.Marine);
-        soldiers[2] = new Soldier("박공군",2018,3,16,Soldier.SoldierType.AirForce);
+        soldiers[0] = new Soldier("최상천",2018,Calendar.JUNE,4,Soldier.SoldierType.Army);
+        soldiers[1] = new Soldier("이해병",2018,Calendar.MAY,24,Soldier.SoldierType.Marine);
+        soldiers[2] = new Soldier("박공군",2018,Calendar.JULY,16,Soldier.SoldierType.AirForce);
 
         //이후 데이터를 추가함
     }
